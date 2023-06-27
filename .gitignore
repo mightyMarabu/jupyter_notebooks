@@ -1,3 +1,7 @@
 .cache
+.conda
+.jupyter
+.ipython
+.profiles
 .*
 /blob/
