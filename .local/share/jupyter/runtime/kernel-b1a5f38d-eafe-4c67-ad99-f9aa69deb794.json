@@ -1,0 +1,13 @@
+{
+  "shell_port": 38731,
+  "iopub_port": 35061,
+  "stdin_port": 41769,
+  "control_port": 60751,
+  "hb_port": 52933,
+  "ip": "127.0.0.1",
+  "key": "4e92c756-6754706beddfefe6db4e830e",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/sentinelAPI.ipynb"
+}

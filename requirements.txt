@@ -1,0 +1,15 @@
+matplotlib
+plotly
+chart-studio
+scipy
+sklearn
+geopandas
+folium
+ipywidgets
+rasterio
+liblas
+psycopg2-binary
+pymysql
+mysql-connector-python
+osgeo
+gdal
