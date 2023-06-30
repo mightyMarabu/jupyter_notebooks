@@ -7,9 +7,12 @@ geopandas
 folium
 ipywidgets
 rasterio
-liblas
+tensorflow
+keras
+segmentation-models
+#liblas
 psycopg2-binary
 pymysql
 mysql-connector-python
-osgeo
-gdal
+#osgeo
+#gdal
