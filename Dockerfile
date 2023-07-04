@@ -5,7 +5,7 @@ USER root
 #SHELL ["/bin/sh", "-c"]
 
 # install base utilities
-RUN apt update && apt-get update
+RUN apt update && apt upgrade
 RUN apt-get install -y python3
 RUN apt-get install -y python3-pip
 RUN apt-get install -y gcc
