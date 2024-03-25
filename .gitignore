@@ -1,0 +1,12 @@
+.cache
+.conda
+.jupyter
+.ipython
+.profiles
+.*
+/blob/
+supersecret.py
+models/
+.tiff
+.tif
+classified_eichenberg_tiff
