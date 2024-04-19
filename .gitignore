@@ -5,7 +5,7 @@
 .profiles
 .*
 /blob/
-supersecret.py
+superSecret.py
 models/
 .tiff
 .tif
